@@ -4,8 +4,8 @@
 
 #### Projeto
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
-Projeto resultado da Semana Omnistack #10
+DevRadar is a project that aims to connect developers close to you who work with the same technologies.
+Result of the Omnistack Week # 10
 
 #### Usage
 
