@@ -2,7 +2,7 @@
 
 ![ThaysPrado](https://i.imgur.com/XR0Nqcq.png)
 
-#### Projeto
+#### Project
 
 DevRadar is a project that aims to connect developers close to you who work with the same technologies.
 Result of the Omnistack Week # 10
